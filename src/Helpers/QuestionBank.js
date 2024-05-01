@@ -1,0 +1,42 @@
+export const Questions = [
+    {
+        prompt: "What is 19+4",
+        optionA: "22",
+        optionB: "23",
+        optionC: "24",
+        optionD: "25",
+        answer: "B",
+    },
+    {
+        prompt: "What is 19+3",
+        optionA: "22",
+        optionB: "23",
+        optionC: "24",
+        optionD: "25",
+        answer: "A",
+    },
+    {
+        prompt: "What is 19+5",
+        optionA: "22",
+        optionB: "23",
+        optionC: "24",
+        optionD: "25",
+        answer: "C",
+    },
+    {
+        prompt: "What is 19+6",
+        optionA: "22",
+        optionB: "23",
+        optionC: "24",
+        optionD: "25",
+        answer: "D",
+    },
+    {
+        prompt: "What is 18+4",
+        optionA: "22",
+        optionB: "23",
+        optionC: "24",
+        optionD: "25",
+        answer: "A",
+    },
+];
