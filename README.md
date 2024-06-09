@@ -52,8 +52,8 @@ QuizzApp is an online quiz application built using React JS. It allows users to 
 To use the QuizzApp on your local machine:
 
 1. Follow the installation steps to set up the project.
-2. Run the development server using `npm start`.
-3. Open a web browser and navigate to `http://localhost:3000`.
+2. Run the development server using `npm run dev`.
+3. Open a web browser and navigate to `http://localhost:5173`.
 4. Enter your name in the input section before starting the quiz.
 5. Answer the questions by clicking the next question button.
 6. After finishing the quiz, your total score will be shown.
